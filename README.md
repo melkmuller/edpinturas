@@ -5,6 +5,9 @@ O site foi desenvolvido conforme wireframe entregado por colega de turma. Tanto 
 
 Segue Wireframes abaixo:
 [Contato.pdf](https://github.com/melkmuller/site_ed_pinturas/files/8318328/Contato.pdf)
+
 [Empresa.pdf](https://github.com/melkmuller/site_ed_pinturas/files/8318329/Empresa.pdf)
+
 [Home.pdf](https://github.com/melkmuller/site_ed_pinturas/files/8318331/Home.pdf)
+
 [Serviços.pdf](https://github.com/melkmuller/site_ed_pinturas/files/8318332/Servicos.pdf)
