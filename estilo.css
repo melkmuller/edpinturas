@@ -190,6 +190,7 @@ form legend{
     background-color: #a1a7c0;
     border: none;
     border-radius: 15px;
+    margin-left: -110px;
 }
 #bt-limpar:hover{
     font-size: .7em;
